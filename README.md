@@ -14,6 +14,7 @@ At this week's [Tampa R Users Group Meetup][trug-meetup], we'll work together in
 
 ## Meetup Info
 
+&#x1F5D3; 7pm on Tuesday, April 23, 2019  
 &#x1F4CD; Southern Brewing & Winemaking  
 &#x1F5FA; [4500 North Nebraska Avenue, Tampa](https://maps.google.com/?ll=27.9862041473389,-82.4514465332031)  
 &#x2139; <https://www.meetup.com/Tampa-R-Users-Group/events/260640070/>
