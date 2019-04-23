@@ -28,6 +28,8 @@ At this week's [Tampa R Users Group Meetup][trug-meetup], we'll work together in
   ```r
   install.packages("tidyverse")
   ```
+  
+<p align="middle"><img src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif"/></p>
 
 ## Download the data before the meetup
 
@@ -35,7 +37,7 @@ The data set is about 95mb, so make sure you download the data before the meetup
 
 The [TidyTuesday Anime dataset][tt-anime] is hosted on the [R4DScommunity GitHub page][tidytuesday]. You can download it from there or use our ready-made RStudio project.
 
-### Use our ready-made project
+### Use our ready-made RStudio project
 
 If you'd like to have a ready-to-go RStudio project, you can create a new project from this repo. In RStudio, click **File** > **New Project...** and select __Version Control__. Then select __Git__ and in the final screen enter the URL 
 
@@ -46,9 +48,9 @@ https://github.com/tampausers/hacky-hour-april-2019
 and choose where you would like to save the project.
 
 
-<center>
+<p align="middle">
 <img src="figures/new-project.png" width="30%" /><img src="figures/create-project-from-version-control.png" width="30%" /><img src="figures/clone-git-repo.png" width="30%" />
-</center>
+</p>
 
 ### Get the data from r4dscommunity/tidytuesday
 
